@@ -1,0 +1,29 @@
+{
+  "campanas": 43000,
+  "fichas_excel": 43170,
+  "fichas_sin_campana": 170,
+  "clientes_sin_ficha": 0,
+  "suscripciones": 4844,
+  "sin_suscripcion": 38156,
+  "conversion_pct": 11.27,
+  "registros_sin_edad": 5120,
+  "registros_sin_euribor": 9256,
+  "registros_sin_fecha": 248,
+  "registros_pdays_999": 41412,
+  "conversion_por_canal": {
+    "cellular": 14.74,
+    "telephone": 5.16
+  },
+  "conversion_segun_contactos": {
+    "1": 13.02,
+    "2": 11.48,
+    "3": 10.82,
+    "4-5": 8.59,
+    "6 o más": 5.53
+  },
+  "conversion_segun_antecedente": {
+    "failure": 14.23,
+    "nonexistent": 8.82,
+    "success": 65.32
+  }
+}

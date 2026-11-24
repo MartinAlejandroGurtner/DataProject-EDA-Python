@@ -1,0 +1,25 @@
+variable,faltantes,porcentaje
+euribor3m,9256,21.5256
+default,8981,20.8860
+age,5120,11.9070
+education,1807,4.2023
+loan,1026,2.3860
+housing,1026,2.3860
+cons.price.idx,471,1.0953
+job,345,0.8023
+date,248,0.5767
+marital,85,0.1977
+Unnamed: 0,0,0.0000
+contact,0,0.0000
+pdays,0,0.0000
+previous,0,0.0000
+campaign,0,0.0000
+duration,0,0.0000
+emp.var.rate,0,0.0000
+poutcome,0,0.0000
+nr.employed,0,0.0000
+cons.conf.idx,0,0.0000
+y,0,0.0000
+latitude,0,0.0000
+longitude,0,0.0000
+id_,0,0.0000
